@@ -1,3 +1,5 @@
 toto je file 1
 
+Toto je tretia zmena
 toto je velka zmena
+
